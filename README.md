@@ -1,2 +1,2 @@
 # Maverick_Apps
-It was my final project at SEIP PHP course
+It was my final project at BITM PHP course
