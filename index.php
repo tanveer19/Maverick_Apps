@@ -53,8 +53,7 @@ $obj_app = new Application();
         <!--footer starts-->
         <?php include './include/footer.php'; ?>
         <!--/#footer-->
-
-        <script src="assets/front_end_assets/js/jquery.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
         <script src="assets/front_end_assets/js/bootstrap.min.js"></script>
         <script src="assets/front_end_assets/js/jquery.prettyPhoto.js"></script>
         <script src="assets/front_end_assets/js/jquery.isotope.min.js"></script>
